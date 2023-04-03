@@ -1,0 +1,7 @@
+.header__nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+  padding-top: 50px;
+}

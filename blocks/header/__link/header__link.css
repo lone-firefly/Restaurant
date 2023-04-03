@@ -1,0 +1,7 @@
+.header__link {
+  text-decoration: none;
+  cursor: pointer;
+  color: var(--white);
+  font-size: 14px;
+  font-family: "OpenSans", sans-serif;
+}

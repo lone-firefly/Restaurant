@@ -1,0 +1,6 @@
+.header__card-title {
+  color: var(--dark-grey);
+  font-size: 26px;
+  font-family: "Tinos", sans-serif;
+  margin: 0;
+}

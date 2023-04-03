@@ -1,0 +1,10 @@
+.header__text-group {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  margin-top: 12px;
+  margin-bottom: 21px;
+  margin-left: 96px;
+}

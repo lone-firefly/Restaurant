@@ -1,0 +1,9 @@
+.button {
+  background-color: var(--bright-orange);
+  border: none;
+  cursor: pointer;
+  color: var(--white);
+  height: 47px;
+  font-size: 14px;
+  font-weight: 700;
+}

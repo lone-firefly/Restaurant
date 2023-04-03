@@ -1,0 +1,8 @@
+.header__cards {
+  display: flex;
+  gap: 31px;
+  justify-content: center;
+  margin: 0;
+  margin-top: 124px;
+  margin-bottom: 124px;
+}

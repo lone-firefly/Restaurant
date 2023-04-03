@@ -1,0 +1,8 @@
+.header__card-text {
+  height: 124px;
+  width: 303px;
+  text-align: center;
+  color: var(--grey);
+  font-size: 26px;
+  font-family: "Tinos", sans-serif;
+}

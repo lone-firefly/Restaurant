@@ -1,3 +1,10 @@
-:root{
-  --variables : 10px; /* Переменная : свойтва */ 
+:root {
+  --white: #fff;
+  --black: #000;
+  --orange: #d67e35;
+  --orange2: #d67e34;
+  --bright-orange: #ff7400;
+  --brown: #bc9060;
+  --grey: #656363;
+  --dark-grey: #2c2c2c;
 }

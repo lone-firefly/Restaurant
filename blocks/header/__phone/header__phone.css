@@ -1,0 +1,7 @@
+.header__phone {
+  width: 220px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin-left: 31px;
+}

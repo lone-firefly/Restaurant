@@ -1,0 +1,8 @@
+.header__phone-num {
+  margin: 0;
+  width: fit-content;
+  color: var(--white);
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 7px;
+}

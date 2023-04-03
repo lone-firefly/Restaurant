@@ -1,9 +1,10 @@
-.header__title {
+.header__subtitle {
   margin: 0;
+  margin-left: 24px;
   color: var(--orange);
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 400;
-  width: 556px;
-  height: 85px;
+  width: 430px;
+  height: 57px;
   font-family: "Tinos", sans-serif;
 }

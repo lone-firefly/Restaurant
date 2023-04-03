@@ -1,0 +1,5 @@
+.header__strips {
+  width: 61px;
+  height: 2px;
+  background-color: var(--white);
+}

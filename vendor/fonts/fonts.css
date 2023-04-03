@@ -1,8 +1,47 @@
 @font-face {
-  font-family: '';  /* Название шрифта */ 
-  src: url('./') format('woff2'), /* Путь к расположению шрифта */ 
-       url('./') format('woff');
-  font-weight: 400; /* Толщина шрифта */ 
-  font-style: normal; /* Стиль шрифта */ 
-  font-display: swap; /* Отображение шрифта */ 
+  font-family: "OpenSans";
+  src: url("./OpenSans/OpenSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("./OpenSans/OpenSans-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("./OpenSans/OpenSans-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("./OpenSans/OpenSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tinos";
+  src: url("./Tinos/Tinos-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cookie";
+  src: url("./Cookie/Cookie-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }

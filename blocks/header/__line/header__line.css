@@ -1,0 +1,5 @@
+.header__line {
+  width: 2px;
+  height: 51px;
+  background-color: var(--white);
+}

@@ -1,3 +1,6 @@
-.header{
-  
+.header {
+  background-image: url(../../images/header-logo/background.png);
+  height: 800px;
+  background-size: cover;
+  font-family: "OpenSans", sans-serif;
 }

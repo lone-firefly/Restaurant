@@ -1,12 +1,40 @@
-@import '../vendor/normalize.css';
-@import '../vendor/variables.css';
-@import '../vendor/fonts/fonts.css';
-/* Blocks */ 
-@import '../blocks/page/page.css';
-/* Header */ 
-@import '../blocks/header/header.css';
-@import '../blocks/header/__title/header__title.css';
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__button/header__button.css";
+@import "../blocks/header/__card-text/header__card-text.css";
+@import "../blocks/header/__card-title/header__card-title.css";
+@import "../blocks/header/__card-title/_brown/header__card-title_brown.css";
+@import "../blocks/header/__card/header__card.css";
+@import "../blocks/header/__cards/header__cards.css";
+@import "../blocks/header/__cart-logo/header__cart-logo.css";
+@import "../blocks/header/__dish-logo/header__dish-logo.css";
+@import "../blocks/header/__group-button/header__group-button.css";
+@import "../blocks/header/__group/header__group.css";
+@import "../blocks/header/__line/header__line.css";
+@import "../blocks/header/__link/header__link.css";
+@import "../blocks/header/__lists/header__lists.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__phone-logo/header__phone-logo.css";
+@import "../blocks/header/__phone-num/header__phone-num.css";
+@import "../blocks/header/__phone-text/header__phone__text.css";
+@import "../blocks/header/__phone/header__phone.css";
+@import "../blocks/header/__rest-logo/header__rest-logo.css";
+@import "../blocks/header/__strips/header__strips.css";
+@import "../blocks/header/__subtitle/header__subtitle.css";
+@import "../blocks/header/__text-group/header__text-group.css";
+@import "../blocks/header/__text/header__text.css";
+@import "../blocks/header/__group-card-title/header__group-card-title.css";
+/* Button */
+@import "../blocks/button/button.css";
+/* List */
+@import "../blocks/list/list.css";
 /* Main */
-@import '../blocks/main/main.css';
+@import "../blocks/main/main.css";
 /* Footer */
-@import '../blocks/footer/footer.css';
+@import "../blocks/footer/footer.css";
