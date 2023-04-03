@@ -1,0 +1,6 @@
+.our-story__count {
+  display: flex;
+  height: 83px;
+  width: fit-content;
+  gap: 40px;
+}

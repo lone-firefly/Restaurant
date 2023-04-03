@@ -1,4 +1,7 @@
 .header__group-card-title {
   display: flex;
+  justify-content: center;
   margin-top: 4px;
+  width: 263px;
+  height: 30px;
 }

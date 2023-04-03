@@ -36,5 +36,20 @@
 @import "../blocks/list/list.css";
 /* Main */
 @import "../blocks/main/main.css";
+/* Our-story */
+@import "../blocks/our-story/__count-text/our-story__count-text.css";
+@import "../blocks/our-story/__count/our-story__count.css";
+@import "../blocks/our-story/__first/our-story__first.css";
+@import "../blocks/our-story/__group-img/our-story__group-img.css";
+@import "../blocks/our-story/__group/our-story__group.css";
+@import "../blocks/our-story/__num/our-story__num.css";
+@import "../blocks/our-story/__second/our-story__second.css";
+@import "../blocks/our-story/__text-group/our-story__text-group.css";
+@import "../blocks/our-story/__text/our-story__text.css";
+@import "../blocks/our-story/__third/our-story__third.css";
+@import "../blocks/our-story/__title-group/our-story__title-group.css";
+@import "../blocks/our-story/__title/_orange/our-story__title_orange.css";
+@import "../blocks/our-story/__title/our-story__title.css";
+@import "../blocks/our-story/our-story.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

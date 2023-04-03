@@ -1,0 +1,5 @@
+.our-story__text-group {
+  display: grid;
+  gap: 21px;
+  justify-items: center;
+}

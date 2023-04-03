@@ -5,4 +5,6 @@
   color: var(--grey);
   font-size: 26px;
   font-family: "Tinos", sans-serif;
+  margin: 0;
+  margin-top: 20px;
 }

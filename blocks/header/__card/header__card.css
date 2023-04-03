@@ -5,6 +5,7 @@
   height: 328px;
   box-sizing: border-box;
   padding-top: 48px;
+  padding-bottom: 15px;
   display: grid;
   align-items: center;
   justify-items: center;

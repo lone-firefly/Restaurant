@@ -1,0 +1,7 @@
+.our-story__group {
+  display: grid;
+  justify-items: center;
+  height: 422px;
+  gap: 39px;
+  margin-top: 16px;
+}
