@@ -50,6 +50,28 @@
 @import "../blocks/our-story/__title-group/our-story__title-group.css";
 @import "../blocks/our-story/__title/_orange/our-story__title_orange.css";
 @import "../blocks/our-story/__title/our-story__title.css";
+@import "../blocks/our-story/__first-group/our-story__first-group.css";
+@import "../blocks/our-story/__second-group/our-story__second-group.css";
+@import "../blocks/our-story/__second-title/our-story__second-title.css";
+@import "../blocks/our-story/__second-text/our-story__second-text.css";
+@import "../blocks/our-story/__second-button/our-story__second-button.css";
 @import "../blocks/our-story/our-story.css";
+/* Title */
+@import "../blocks/title/title.css";
+@import "../blocks/title/_orange/title_orange.css";
+/* Dishes */
+@import "../blocks/dishes/__dashed/dishes__dashed.css";
+@import "../blocks/dishes/__descript/dishes__descript.css";
+@import "../blocks/dishes/__dish/dishes__dish.css";
+@import "../blocks/dishes/__group/dishes__group.css";
+@import "../blocks/dishes/__img-group/dishes__img-group.css";
+@import "../blocks/dishes/__img-pizza/dishes__img-pizza.css";
+@import "../blocks/dishes/__img-small/dishes__img-small.css";
+@import "../blocks/dishes/__text/dishes__text.css";
+@import "../blocks/dishes/__title-group/dishes__title-group.css";
+@import "../blocks/dishes/__title/_orange/dishes__title_orange.css";
+@import "../blocks/dishes/__title/dishes__title.css";
+@import "../blocks/dishes/dishes.css";
+
 /* Footer */
 @import "../blocks/footer/footer.css";

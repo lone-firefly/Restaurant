@@ -1,0 +1,5 @@
+.our-story__first-group {
+  display: flex;
+  gap: 125px;
+  justify-content: center;
+}

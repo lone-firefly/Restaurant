@@ -1,5 +1,4 @@
 .our-story {
-  display: flex;
-  gap: 125px;
-  justify-content: center;
+  display: grid;
+  gap: 122px;
 }

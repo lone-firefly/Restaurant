@@ -1,0 +1,4 @@
+.dishes__img-group {
+  display: grid;
+  gap: 29px;
+}

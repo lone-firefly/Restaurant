@@ -1,0 +1,9 @@
+.our-story__second-group {
+  background-image: url("../../../images/our-story/bg.png");
+  background-size: cover;
+  height: 357px;
+  box-sizing: border-box;
+  padding: 80px 0 0 165px;
+  display: flex;
+  gap: 331px;
+}
