@@ -72,6 +72,20 @@
 @import "../blocks/dishes/__title/_orange/dishes__title_orange.css";
 @import "../blocks/dishes/__title/dishes__title.css";
 @import "../blocks/dishes/dishes.css";
+/* Menu */
+@import "../blocks/menu/__button/menu___button.css";
+@import "../blocks/menu/__card/menu___card.css";
+@import "../blocks/menu/__cards/menu___cards.css";
+@import "../blocks/menu/__subtitle/menu___subtitle.css";
+@import "../blocks/menu/__text/menu___text.css";
+@import "../blocks/menu/__title/menu___title.css";
+@import "../blocks/menu/menu.css";
+/* Review */
+@import "../blocks/review/__img/review__img.css";
+@import "../blocks/review/__name/review__name.css";
+@import "../blocks/review/__status/review__status.css";
+@import "../blocks/review/__text/review__text.css";
+@import "../blocks/review/review.css";
 
 /* Footer */
 @import "../blocks/footer/footer.css";

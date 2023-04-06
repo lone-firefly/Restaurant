@@ -1,0 +1,7 @@
+.review {
+  background-color: var(--light-grey);
+  height: 550px;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}

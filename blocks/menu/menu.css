@@ -1,0 +1,8 @@
+.menu {
+  background-image: url("../../images/menu/bg.png");
+  background-size: cover;
+  height: 1034px;
+  margin-top: 152px;
+  box-sizing: border-box;
+  padding-top: 98px;
+}

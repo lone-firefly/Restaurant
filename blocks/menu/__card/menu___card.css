@@ -1,0 +1,8 @@
+.menu__card {
+  background-color: var(--white);
+  width: 350px;
+  height: 510px;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
