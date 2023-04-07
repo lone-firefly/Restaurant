@@ -1,0 +1,10 @@
+.menu__rec {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 130px;
+  height: 36px;
+  background-color: var(--orange);
+  font-size: 13px;
+  text-align: center;
+}

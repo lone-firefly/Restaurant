@@ -36,6 +36,7 @@
 @import "../blocks/list/list.css";
 /* Main */
 @import "../blocks/main/main.css";
+@import "../blocks/main/__last-bg/main__last-bg.css";
 /* Our-story */
 @import "../blocks/our-story/__count-text/our-story__count-text.css";
 @import "../blocks/our-story/__count/our-story__count.css";
@@ -79,6 +80,11 @@
 @import "../blocks/menu/__subtitle/menu___subtitle.css";
 @import "../blocks/menu/__text/menu___text.css";
 @import "../blocks/menu/__title/menu___title.css";
+@import "../blocks/menu/__rec/menu__rec.css";
+@import "../blocks/menu/__ell/menu__ell.css";
+@import "../blocks/menu/__group/menu__group.css";
+@import "../blocks/menu/__images/menu__images.css";
+@import "../blocks/menu/__price/menu__price.css";
 @import "../blocks/menu/menu.css";
 /* Review */
 @import "../blocks/review/__img/review__img.css";
@@ -86,6 +92,22 @@
 @import "../blocks/review/__status/review__status.css";
 @import "../blocks/review/__text/review__text.css";
 @import "../blocks/review/review.css";
+/* Gallery */
+@import "../blocks/gallery/__images/gallery__images.css";
+@import "../blocks/gallery/__content/gallery__content.css";
+@import "../blocks/gallery/__img/gallery__img.css";
+@import "../blocks/gallery/__stripe/gallery__stripe.css";
+@import "../blocks/gallery/__title-group/gallery__title-group.css";
+@import "../blocks/gallery/__title/_orange/gallery__title_orange.css";
+@import "../blocks/gallery/__title/gallery__title.css";
+@import "../blocks/gallery/gallery.css";
+/* Cookers */
+@import "../blocks/cookers/__images/cookers__images.css";
+@import "../blocks/cookers/__img/cookers__img.css";
+@import "../blocks/cookers/__title-group/cookers__title-group.css";
+@import "../blocks/cookers/__title/_orange/cookers__title_orange.css";
+@import "../blocks/cookers/__title/cookers__title.css";
+@import "../blocks/cookers/cookers.css";
 
 /* Footer */
 @import "../blocks/footer/footer.css";

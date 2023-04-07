@@ -1,0 +1,10 @@
+.menu__images {
+  position: relative;
+  background-image: url("../../../images/menu/hamburger.png");
+  background-size: cover;
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+  margin-top: 80px;
+  margin-bottom: 22px;
+}

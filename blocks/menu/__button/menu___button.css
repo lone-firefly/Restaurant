@@ -1,3 +1,8 @@
 .menu__button {
   background-color: var(--orange);
+  width: 220px;
+  height: 50px;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 29px;
 }

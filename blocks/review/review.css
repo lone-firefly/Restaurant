@@ -4,4 +4,7 @@
   display: grid;
   justify-items: center;
   align-items: center;
+  box-sizing: border-box;
+  padding-top: 104px;
+  padding-bottom: 107px;
 }

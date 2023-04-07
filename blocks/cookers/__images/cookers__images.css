@@ -1,0 +1,5 @@
+.cookers__images {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}

@@ -1,3 +1,8 @@
 .review__text {
   margin: 0;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  width: 900px;
+  margin-bottom: 14px;
 }

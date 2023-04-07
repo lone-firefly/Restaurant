@@ -1,8 +1,9 @@
 .menu__card {
+  position: relative;
   background-color: var(--white);
   width: 350px;
   height: 510px;
   display: grid;
-  align-items: center;
+  gap: 0;
   justify-items: center;
 }

@@ -1,0 +1,9 @@
+.menu__price {
+  position: absolute;
+  top: 34px;
+  left: 29px;
+  margin: 0;
+  font-size: 30px;
+  font-family: "Cookie", sans-serif;
+  color: var(--white);
+}

@@ -1,0 +1,5 @@
+.menu__group {
+  position: absolute;
+  bottom: calc(100% - 225px);
+  right: calc(100% - 225px);
+}

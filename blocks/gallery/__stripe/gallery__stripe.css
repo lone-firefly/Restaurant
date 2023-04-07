@@ -1,0 +1,5 @@
+.gallery__stripe {
+  width: 30px;
+  height: 100px;
+  background-color: var(--red);
+}
