@@ -1,5 +1,6 @@
 .header__card-text {
-  height: 124px;
+  min-height: 124px;
+  height: max-content;
   width: 303px;
   text-align: center;
   color: var(--grey);
@@ -7,4 +8,5 @@
   font-family: "Tinos", sans-serif;
   margin: 0;
   margin-top: 20px;
+  overflow: hidden;
 }

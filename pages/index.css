@@ -30,6 +30,7 @@
 @import "../blocks/header/__text-group/header__text-group.css";
 @import "../blocks/header/__text/header__text.css";
 @import "../blocks/header/__group-card-title/header__group-card-title.css";
+@import "../blocks/header/__bg/header__bg.css";
 /* Button */
 @import "../blocks/button/button.css";
 /* List */
@@ -56,6 +57,7 @@
 @import "../blocks/our-story/__second-title/our-story__second-title.css";
 @import "../blocks/our-story/__second-text/our-story__second-text.css";
 @import "../blocks/our-story/__second-button/our-story__second-button.css";
+@import "../blocks/our-story/__more-group/our-story__more-group.css";
 @import "../blocks/our-story/our-story.css";
 /* Title */
 @import "../blocks/title/title.css";
@@ -85,6 +87,7 @@
 @import "../blocks/menu/__group/menu__group.css";
 @import "../blocks/menu/__images/menu__images.css";
 @import "../blocks/menu/__price/menu__price.css";
+@import "../blocks/menu/__more-group/menu__more-group.css";
 @import "../blocks/menu/menu.css";
 /* Review */
 @import "../blocks/review/__img/review__img.css";

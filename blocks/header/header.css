@@ -1,7 +1,8 @@
 .header {
-  background-image: url(../../images/header-logo/background.png);
-  height: 800px;
-  background-size: cover;
   font-family: "OpenSans", sans-serif;
-  margin-bottom: 372px;
+  margin-bottom: 180px;
+  display: grid;
+  justify-content: center;
+  height: fit-content;
+  position: relative;
 }

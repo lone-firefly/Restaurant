@@ -1,0 +1,6 @@
+.menu__more-group {
+  display: grid;
+  justify-items: center;
+  height: 572px;
+  gap: 138px;
+}

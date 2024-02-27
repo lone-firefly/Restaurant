@@ -1,8 +1,10 @@
 .header__card {
   background-color: var(--white);
   box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
-  width: 349px;
-  height: 328px;
+  min-width: 349px;
+  min-height: 328px;
+  width: max-content;
+  height: max-content;
   box-sizing: border-box;
   padding-top: 48px;
   padding-bottom: 15px;

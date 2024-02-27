@@ -3,5 +3,6 @@
   justify-content: center;
   margin-top: 4px;
   width: 263px;
-  height: 30px;
+  min-height: 30px;
+  height: max-content;
 }

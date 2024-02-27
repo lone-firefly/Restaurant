@@ -1,0 +1,7 @@
+.dishes {
+  display: grid;
+  gap: 139px;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 132px;
+}
