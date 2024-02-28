@@ -3,3 +3,11 @@
   gap: 30px;
   justify-content: center;
 }
+
+@media screen and (max-width: 1200px) {
+  .cookers__images {
+    flex-wrap: wrap;
+    width: 80vw;
+    gap: 45px;
+  }
+}

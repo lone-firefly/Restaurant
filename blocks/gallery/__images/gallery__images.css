@@ -5,3 +5,11 @@
   flex-wrap: wrap;
   gap: 30px;
 }
+
+@media screen and (max-width: 1200px) {
+  .gallery__images {
+    width: 70vw;
+    height: fit-content;
+    justify-content: center;
+  }
+}

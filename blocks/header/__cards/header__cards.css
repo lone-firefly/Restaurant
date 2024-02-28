@@ -6,3 +6,13 @@
   justify-content: space-between;
   width: 90vw;
 }
+
+@media screen and (max-width: 1200px) {
+  .header__cards {
+    flex-wrap: wrap;
+    width: 70vw;
+    justify-self: center;
+    justify-content: center;
+    gap: 14px;
+  }
+}

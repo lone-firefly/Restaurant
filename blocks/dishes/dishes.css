@@ -5,3 +5,9 @@
   justify-items: center;
   margin-top: 132px;
 }
+
+@media screen and (max-width: 1200px) {
+  .dishes {
+    gap: 68px;
+  }
+}

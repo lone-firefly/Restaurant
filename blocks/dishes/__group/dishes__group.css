@@ -4,3 +4,13 @@
   gap: 30px;
   margin: 0;
 }
+
+@media screen and (max-width: 1200px) {
+  .dishes__group {
+    display: grid;
+    width: max-content;
+    justify-self: center;
+    justify-items: center;
+    gap: 50px;
+  }
+}

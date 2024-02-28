@@ -3,3 +3,12 @@
   gap: 125px;
   justify-content: center;
 }
+
+@media screen and (max-width: 1200px) {
+  .our-story__first-group {
+    display: grid;
+    width: 80vw;
+    justify-self: center;
+    gap: 45px;
+  }
+}

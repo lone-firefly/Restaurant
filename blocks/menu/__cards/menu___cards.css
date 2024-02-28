@@ -3,3 +3,14 @@
   gap: 30px;
   justify-content: center;
 }
+
+@media screen and (max-width: 1200px) {
+  .menu__cards {
+    display: grid;
+    width: 350px;
+    height: 510px;
+    overflow: hidden;
+    justify-self: center;
+    gap: 45px;
+  }
+}
