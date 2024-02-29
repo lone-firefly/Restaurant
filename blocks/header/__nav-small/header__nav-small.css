@@ -1,0 +1,14 @@
+.header__nav-small {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-top: 50px;
+  width: 80vw;
+  height: 81px;
+}
+
+@media screen and (min-width: 980px) {
+  .header__nav-small {
+    display: none;
+  }
+}

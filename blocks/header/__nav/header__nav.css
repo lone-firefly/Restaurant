@@ -5,3 +5,9 @@
   height: fit-content;
   padding-top: 50px;
 }
+
+@media screen and (max-width: 980px) {
+  .header__nav {
+    display: none;
+  }
+}
