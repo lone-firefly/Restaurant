@@ -31,6 +31,14 @@
 @import "../blocks/header/__text/header__text.css";
 @import "../blocks/header/__group-card-title/header__group-card-title.css";
 @import "../blocks/header/__bg/header__bg.css";
+
+@import "../blocks/header/__nav-small/header__nav-small.css";
+@import "../blocks/header/__menu-group/header__menu-group.css";
+@import "../blocks/header/__small-logo/header__small-logo.css";
+@import "../blocks/header/__menu/header__menu.css";
+@import "../blocks/header/__menu-label/header__menu-label.css";
+@import "../blocks/header/__menu-lists/header__menu-lists.css";
+
 /* Button */
 @import "../blocks/button/button.css";
 /* List */

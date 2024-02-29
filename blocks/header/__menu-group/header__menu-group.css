@@ -1,0 +1,9 @@
+.header__menu-group {
+  display: grid;
+  gap: 20px;
+  justify-content: center;
+  justify-items: center;
+  width: 64px;
+}
+
+/* TODO width to maxcontent; */

@@ -1,0 +1,6 @@
+.header__menu-lists {
+  display: grid;
+  gap: 10px;
+  padding: 0;
+  width: fit-content;
+}
