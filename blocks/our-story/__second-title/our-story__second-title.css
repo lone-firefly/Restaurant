@@ -2,7 +2,17 @@
   font-family: "Tinos", sans-serif;
   font-size: 52px;
   color: var(--orange2);
-  width: 601px;
-  height: 120px;
+  max-width: 601px;
+  width: fit-content;
+  min-height: 120px;
   margin: 0;
+}
+
+@media screen and (max-width: 755px) {
+  .our-story__second-title {
+    font-size: 30px;
+    max-width: none;
+    min-height: fit-content;
+    height: fit-content;
+  }
 }

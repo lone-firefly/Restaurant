@@ -7,3 +7,9 @@
   height: 85px;
   font-family: "Tinos", sans-serif;
 }
+
+@media screen and (max-width: 1200px) {
+  .header__title {
+    width: fit-content;
+  }
+}

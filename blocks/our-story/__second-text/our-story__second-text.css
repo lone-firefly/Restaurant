@@ -7,3 +7,12 @@
   width: 542px;
   height: 33px;
 }
+
+@media screen and (max-width: 650px) {
+  .our-story__second-text {
+    width: 80vw;
+    max-width: 542px;
+    height: fit-content;
+    min-height: 33px;
+  }
+}

@@ -8,3 +8,9 @@
   margin-bottom: 21px;
   margin-left: 96px;
 }
+
+@media screen and (max-width: 1200px) {
+  .header__text-group {
+    margin-left: 0;
+  }
+}

@@ -9,7 +9,20 @@
 @media screen and (max-width: 1200px) {
   .gallery__images {
     width: 70vw;
+    min-width: 540px;
     height: fit-content;
     justify-content: center;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .gallery__images {
+    display: grid;
+    justify-content: center;
+    max-width: 290px;
+    min-width: auto;
+    width: 290px;
+    /* height: 311px; */
+    grid-template-rows: repeat(6, 311px);
   }
 }

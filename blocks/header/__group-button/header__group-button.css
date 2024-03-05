@@ -1,3 +1,9 @@
 .header__group-button {
   margin-left: 181px;
 }
+
+@media screen and (max-width: 1200px) {
+  .header__group-button {
+    margin: 0;
+  }
+}
