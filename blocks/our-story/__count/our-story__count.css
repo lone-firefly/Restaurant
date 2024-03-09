@@ -4,3 +4,11 @@
   width: fit-content;
   gap: 40px;
 }
+
+@media screen and (max-width: 550px) {
+  .our-story__count {
+    flex-flow: column;
+    height: fit-content;
+    gap: 22px;
+  }
+}

@@ -3,6 +3,6 @@
   font-family: "Tinos", sans-serif;
   margin: 0;
   width: 188px;
-  height: 30px;
+  min-height: 30px;
   margin-bottom: 17px;
 }

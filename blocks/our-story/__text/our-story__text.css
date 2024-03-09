@@ -1,8 +1,15 @@
 .our-story__text {
   width: 444px;
-  height: 217px;
+  min-height: 217px;
   font-size: 16px;
   color: var(--grey);
   text-align: center;
   margin: 0;
+}
+
+@media screen and (max-width: 550px) {
+  .our-story__text {
+    min-width: 290px;
+    width: 80vw;
+  }
 }

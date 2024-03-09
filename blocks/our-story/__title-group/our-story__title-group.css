@@ -3,3 +3,9 @@
   width: 336px;
   height: 62px;
 }
+
+@media screen and (max-width: 550px) {
+  .our-story__title-group {
+    width: fit-content;
+  }
+}

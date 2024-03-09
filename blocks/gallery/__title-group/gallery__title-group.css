@@ -3,6 +3,7 @@
   margin-bottom: 60px;
   align-self: center;
   justify-self: center;
-  width: 317px;
+  max-width: 317px;
+  width: fit-content;
   height: 62px;
 }

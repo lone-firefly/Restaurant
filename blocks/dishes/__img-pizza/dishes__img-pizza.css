@@ -4,3 +4,9 @@
     height: 478px;
   }
 }
+
+@media screen and (max-width: 550px) {
+  .dishes__img-pizza {
+    width: 100vw;
+  }
+}

@@ -2,7 +2,7 @@
   position: relative;
   background-color: var(--white);
   width: 350px;
-  height: 510px;
+  min-height: 510px;
   display: grid;
   gap: 0;
   justify-items: center;

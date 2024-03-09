@@ -3,3 +3,9 @@
   font-family: "Tinos", sans-serif;
   margin: 0;
 }
+
+@media screen and (max-width: 550px) {
+  .title {
+    font-size: 40px;
+  }
+}

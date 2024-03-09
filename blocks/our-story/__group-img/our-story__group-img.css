@@ -1,6 +1,8 @@
 @media screen and (max-width: 1200px) {
   .our-story__group-img {
     width: 50vw;
+    min-width: 290px;
+    align-self: center;
   }
 }
 
